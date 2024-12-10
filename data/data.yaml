@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: C:/Users/ahadr/Desktop/Aerospace Engineering/F2024/AER 850/Project-3/data/train/images
+val: C:/Users/ahadr/Desktop/Aerospace Engineering/F2024/AER 850/Project-3/data/train/images
+test: C:/Users/ahadr/Desktop/Aerospace Engineering/F2024/AER 850/Project-3/data/train/images
 
 nc: 13
 names: ['Button', 'Capacitor', 'Connector', 'Diode', 'Electrolytic Capacitor', 'IC', 'Inductor', 'Led', 'Pads', 'Pins', 'Resistor', 'Switch', 'Transistor']
